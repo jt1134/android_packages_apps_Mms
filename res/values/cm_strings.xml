@@ -191,4 +191,7 @@
 
     <string name="selectContact">select contact</string>
 
+    <!-- MMS push permission -->
+    <string name="label_mms_push">MMS Push</string>
+    <string name="desc_mms_push">Pushes MMS from outbox to the network</string>
 </resources>
